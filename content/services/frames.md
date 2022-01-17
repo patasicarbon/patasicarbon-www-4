@@ -1,15 +1,15 @@
 ---
 title: 'Frames'
 date: 2022-01-15T12:00:00+05:00
-icon: 'services/service-icon-1.png'
+icon: 'services/service-icon-b.jpg'
 draft: false
 featured: true
 weight: 1
 heroHeading: 'Frames'
-heroSubHeading: 'We offer Carbon Frames Repairs'
+heroSubHeading: 'We offer Carbon Bike Frames Repairs'
 heroBackground: 'services/service1.jpg'
 ---
 
-## Carbon Frames Repairs
+## Carbon Bike Frames Repairs
 
-Carbon Frames Repairs as per your demands
+Carbon Bike Frames Repairs as per your needs

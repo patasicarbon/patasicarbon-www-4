@@ -2,6 +2,11 @@
     {
         "name": "Turbo Strength",
         "link": "https://www.peterpatasi.com",
-        "image": "social/github.svg"
+        "image": "social/paddle.svg"
+    },
+    {
+        "name": "Patasi Carbon",
+        "link": "https://www.patasicarbon.ca",
+        "image": "social/bike.svg"
     }
 ]
